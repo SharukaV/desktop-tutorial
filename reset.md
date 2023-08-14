@@ -1,2 +1,2 @@
 base reset
-reset 02
+reset 04
