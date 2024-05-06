@@ -1,4 +1,4 @@
 base rebase 01
 rebase 02
 
-Reset HEAD
+Reset HEAD 01
